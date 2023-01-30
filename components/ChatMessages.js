@@ -36,7 +36,7 @@ const ChatMessages = ({ messagesList, publicChat }) => {
                                           <div className="image">
                                                 <Image
                                                       alt={m.message}
-                                                      src={`https://cstvtjojcqfjvuiwcijp.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
+                                                      src={`https://tnhsakwhhtvxmpkymhoy.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
                                                       width={283}
                                                       height={64}
                                                       layout="responsive"
