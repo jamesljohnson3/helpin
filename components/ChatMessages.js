@@ -36,7 +36,7 @@ const ChatMessages = ({ messagesList, publicChat }) => {
                                           <div className="image">
                                                 <Image
                                                       alt={m.message}
-                                                      src={`https://tnhsakwhhtvxmpkymhoy.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
+                                                      src={`https://hjhncoqotxlxpvrljjgz.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
                                                       width={283}
                                                       height={64}
                                                       layout="responsive"
@@ -57,7 +57,7 @@ const ChatMessages = ({ messagesList, publicChat }) => {
                                                       <HiDocuText />
                                                       <span>{m.message}</span>
                                                       {/* <Document
-                                                      file={`https://cstvtjojcqfjvuiwcijp.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
+                                                      file={`https://hjhncoqotxlxpvrljjgz.supabase.co/storage/v1/object/public/assets/${m.filePath}`}
                                                       width="100%"
                                                 >
                                                       <Page pageNumber={1} />
