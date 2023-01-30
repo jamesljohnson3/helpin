@@ -66,7 +66,7 @@ const CustomerFiles = ({ assetsList, user }) => {
                                           />
                                     </svg>
 
-                                    {/* https://cstvtjojcqfjvuiwcijp.supabase.co/storage/v1/object/public/assets/assets/${id}/${rowData.name} */}
+                                    {/* https://tnhsakwhhtvxmpkymhoy.supabase.co/storage/v1/object/public/assets/assets/${id}/${rowData.name} */}
                               </div>
                         )}{' '}
                         {contentTypeCheck(rowData.metadata.mimetype) ===
